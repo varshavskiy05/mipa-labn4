@@ -1,0 +1,12 @@
+{
+  "current_period": "2026-10-01..2026-10-31",
+  "previous_period": "2026-09-01..2026-09-30",
+  "kpis": {
+    "marketing_spend": {"current": 412000, "previous": 365000, "relative_change": 0.1288},
+    "new_users": {"current": 3120, "previous": 3480, "relative_change": -0.1034},
+    "cac": {"current": 132.05, "previous": 104.89, "relative_change": 0.2589},
+    "conversion_rate": {"current": 0.0371, "previous": 0.0392, "relative_change": -0.0536, "change_pp": -0.21},
+    "revenue": {"current": 2890000, "previous": 2760000, "relative_change": 0.0471},
+    "paid_social_share_of_spend": {"current": 0.46, "previous": 0.31, "relative_change": 0.4839}
+  }
+}
